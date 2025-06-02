@@ -38,30 +38,11 @@ This repo is my personal logbook — a mix of notes, code, and breakthroughs alo
 
 ---
 
-## ✅ Progress Tracker
-
-| Day | Topic | Status |
-|-----|-------|--------|
-| 01  | Supervised Learning Overview | ✅ |
-| 02  | Linear Regression | ✅ |
-| 03  | Gradient Descent (Scratch) | ✅ |
-| ... | ... | ... |
-
-_This table will be updated daily._
-
----
-
 ## 🚧 Currently Exploring
 
 - 📚 **CampusX ML & Deep Learning Bootcamp**
 - 🧠 **Real-world projects with real data**
 - ⚡ **TensorFlow and PyTorch workflows**
-
----
-
-## 🤝 Want to Learn Together?
-
-Feel free to fork this repo, follow along, or connect if you're on a similar path. Let's grow by sharing knowledge and building together.
 
 ---
 

@@ -1,5 +1,6 @@
 # 🧠 ML Daily Grind — 100 Days of Machine Learning
 
+<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" alt="GIF showcase">
 Welcome to my **daily Machine Learning journey** — a consistent log of my progress as I commit every single day to learning and building in the field of ML.
 
 ---
@@ -29,12 +30,9 @@ This repo is my personal logbook — a mix of notes, code, and breakthroughs alo
 ---
 
 ## 🛠️ What You’ll Find
-
-- `DayXX/notes.md` — Detailed notes and intuition  
-- `DayXX/code.ipynb` — Implementation of algorithms and models  
-- `datasets/` — Cleaned and preprocessed data  
-- `resources.md` — Handpicked learning resources  
-- `milestones.md` — Major concepts and achievements
+ 
+- `dayXX/ xyz.ipynb` — Implementation of algorithms and models  
+- `dayXX/ xyz.csv` — raw data used
 
 ---
 
@@ -54,3 +52,4 @@ This repo is my personal logbook — a mix of notes, code, and breakthroughs alo
 ---
 
 **Consistent progress. Every day. Let’s do this.**
+<img src="https://private-user-images.githubusercontent.com/74038190/240885606-f606466f-4cc9-4cb1-8ad6-80a7eeea9e7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg5NDczMTksIm5iZiI6MTc0ODk0NzAxOSwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODU2MDYtZjYwNjQ2NmYtNGNjOS00Y2IxLThhZDYtODBhN2VlZWE5ZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjAzVDEwMzY1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE1OTA1ZTgxMzA3NTMzMTAwMzM4NzZlMmIxYjg1Mzk1MDBhMzg2NjU1NjJhZmJhY2QwMzA3MWNiMDVhMzg5ZDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.U59N_E7Q8BHIFIt148-3nmLDWS60JpvM9Bh46iio0IY" alt="GIF showcase">

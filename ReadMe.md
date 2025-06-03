@@ -1,4 +1,4 @@
-# 🧠 ML Daily Grind — 100 Days of Machine Learning
+# 🧠 ML Daily Grind — Journey of Machine Learning
 
 <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" alt="GIF showcase">
 Welcome to my **daily Machine Learning journey** — a consistent log of my progress as I commit every single day to learning and building in the field of ML.

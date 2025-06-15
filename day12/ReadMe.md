@@ -1,0 +1,1 @@
+This Folder marks my journey to applying all preprocessing techniques till PCA and implementing it with a exampler dataset of MNIST digit recogniser from kaggle which depened my knowledge of using PCA in real datasets.
